@@ -49,14 +49,13 @@
 ### GitHub Stats
 
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Ahnafprojects&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=818cf8&icon_color=6366f1&text_color=e2e8f0&ring_color=6366f1" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahnafprojects&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=e2e8f0&langs_count=8" />
+  <img src="https://streak-stats.demolab.com?user=Ahnafprojects&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=818cf8&currStreakLabel=a5b4fc&sideNums=e2e8f0&sideLabels=94a3b8&dates=64748b&currStreakNum=e2e8f0&card_width=700" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Ahnafprojects&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=818cf8&currStreakLabel=a5b4fc&sideNums=e2e8f0&sideLabels=94a3b8&dates=64748b&currStreakNum=e2e8f0" />
+  <img height="185" src="https://github-stats-alpha.vercel.app/api?username=Ahnafprojects&cc=0d1117&tc=818cf8&ic=6366f1&bc=0d1117" />
 </div>
 
 <br>
