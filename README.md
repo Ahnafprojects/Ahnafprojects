@@ -7,17 +7,27 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/Ahnafprojects">
-    <img src="https://komarev.com/ghpvc/?username=Ahnafprojects&color=6366f1&style=flat-square&label=PROFILE+VIEWS" />
+  <a href="https://ahnafabdun.me">
+    <img src="https://img.shields.io/badge/Portfolio-ahnafabdun.me-6366f1?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://ahnafabdun.me">
-    <img src="https://img.shields.io/badge/PORTFOLIO-ahnafabdun.me-6366f1?style=flat-square" />
+  <a href="https://www.linkedin.com/in/muhammad-ahnaf-596708320">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/ahnaaffy">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   &nbsp;
   <a href="mailto:ahnafabdun2006@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-contact-6366f1?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ahnafprojects&color=6366f1&style=flat-square&label=PROFILE+VIEWS" />
 </div>
 
 <br>
@@ -98,6 +108,22 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Ahnafprojects&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6" />
+</div>
+
+<br>
+
+---
+
+### Currently Building
+
+<div align="center">
+
+| Project | Stack | Status |
+|:--|:--|:--:|
+| [roomeasehub](https://github.com/Ahnafprojects/roomeasehub) | TypeScript / Next.js | Active |
+| [Spendly](https://github.com/Ahnafprojects/Spendly) | Flutter / Dart | Active |
+| [ahnafabdun.me](https://github.com/Ahnafprojects/ahnafabdun.me) | TypeScript / Next.js | Active |
+
 </div>
 
 <br>
