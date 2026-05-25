@@ -52,11 +52,6 @@
   <img src="https://streak-stats.demolab.com?user=Ahnafprojects&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=818cf8&currStreakLabel=a5b4fc&sideNums=e2e8f0&sideLabels=94a3b8&dates=64748b&currStreakNum=e2e8f0&card_width=700" />
 </div>
 
-<br>
-
-<div align="center">
-  <img height="185" src="https://github-stats-alpha.vercel.app/api?username=Ahnafprojects&cc=0d1117&tc=818cf8&ic=6366f1&bc=0d1117" />
-</div>
 
 <br>
 
@@ -121,10 +116,5 @@
 
 <br>
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
-<br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:1a1a2e&height=130&section=footer" />
