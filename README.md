@@ -76,7 +76,7 @@
 ### 3D Contribution Calendar
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ahnafprojects/Ahnafprojects/output/profile-3d-contrib/profile-night-rainbow.svg" />
+  <img src="https://raw.githubusercontent.com/Ahnafprojects/Ahnafprojects/main/profile-3d-contrib/profile-night-rainbow.svg" />
 </div>
 
 <br>
