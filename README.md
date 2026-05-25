@@ -1,95 +1,96 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:1a1a2e&height=220&section=header&text=Muhammad%20Ahnaf&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%C2%B7%20Mobile%20%C2%B7%20IoT%20%C2%B7%20AI-Native%20Developer&descAlignY=58&descSize=18&descColor=a5b4fc" />
+
 <div align="center">
-
-# Muhammad Ahnaf
-
-**Full-Stack & Mobile Developer · D4 Informatics Engineering Student**
-
-Politeknik Elektronika Negeri Surabaya (PENS)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-ahnafabdun.me-000000?style=flat-square)](https://ahnafabdun.me)
-[![Email](https://img.shields.io/badge/Email-contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ahnafabdun2006@gmail.com)
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3500&pause=900&color=818CF8&center=true&vCenter=true&width=560&lines=D4+Teknik+Informatika+%E2%80%94+PENS+Surabaya;Building+real+products+from+day+one;Web+%7C+Mobile+%7C+IoT+%7C+AI-augmented;Always+shipping+something+new" />
 </div>
 
----
-
-I build web apps, mobile apps, and IoT systems end-to-end. AI tools are a core part of how I work — I use them as leverage to ship faster and think more deliberately, not as a replacement for understanding the problem.
-
-Currently studying D4 Teknik Informatika at PENS Surabaya while actively building real products.
-
 <br>
-
-## Tech Stack
-
-**Languages**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-
-**Frameworks & Platforms**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-
-<br>
-
-## Selected Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Ahnafprojects/Spendly">Spendly</a></h3>
-      <p>Personal finance tracker built as a Flutter mobile app paired with a web dashboard. Designed for real daily use — expense logging, category breakdowns, and spending overview.</p>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Ahnafprojects/aquallet">Aquallet</a></h3>
-      <p>IoT aquarium monitoring and automation system. ESP32 reads sensor data and reports to a TypeScript web interface, with a companion mobile app for remote control.</p>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
-      <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white">
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Ahnafprojects/absensin-mobile">Absensin</a></h3>
-      <p>Full attendance management system across three layers — Flutter mobile app for users, Python REST backend, and TypeScript web dashboard for administrators.</p>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Ahnafprojects/AI-Laporan-Generator">AI Laporan Generator</a></h3>
-      <p>AI-powered tool that generates structured academic reports from user input. Built with Next.js and connected to an LLM backend to automate a tedious manual process.</p>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white">
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-    </td>
-  </tr>
-</table>
-
-<br>
-
-## GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ahnafprojects&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahnafprojects&layout=compact&hide_border=true&theme=default&langs_count=8" />
+  <a href="https://github.com/Ahnafprojects">
+    <img src="https://komarev.com/ghpvc/?username=Ahnafprojects&color=6366f1&style=flat-square&label=PROFILE+VIEWS" />
+  </a>
+  <a href="https://ahnafabdun.me">
+    <img src="https://img.shields.io/badge/PORTFOLIO-ahnafabdun.me-6366f1?style=flat-square" />
+  </a>
+  <a href="mailto:ahnafabdun2006@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-contact-6366f1?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <p>
+    I build production-grade systems end-to-end — from ESP32 firmware to Flutter apps to Next.js dashboards.<br>
+    AI tools are central to how I work: I use them to move faster and think more precisely,<br>
+    not as a replacement for understanding the problem.
+  </p>
 </div>
 
 <br>
 
 ---
 
+### Tech Stack
+
 <div align="center">
-  <sub>Open to collaborating on interesting projects — reach out anytime.</sub>
+  <img src="https://skillicons.dev/icons?i=ts,dart,python,cpp,cs,php,java&theme=dark&perline=8" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=nextjs,flutter,nodejs,laravel,postgres,arduino,git,linux&theme=dark&perline=8" />
 </div>
+
+<br>
+
+---
+
+### GitHub Stats
+
+<div align="center">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Ahnafprojects&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=818cf8&icon_color=6366f1&text_color=e2e8f0&ring_color=6366f1" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahnafprojects&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=e2e8f0&langs_count=8" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Ahnafprojects&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=818cf8&currStreakLabel=a5b4fc&sideNums=e2e8f0&sideLabels=94a3b8&dates=64748b&currStreakNum=e2e8f0" />
+</div>
+
+<br>
+
+---
+
+### Contribution Activity
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ahnafprojects&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=818cf8&line=6366f1&point=a5b4fc&area=true&area_color=6366f1" />
+</div>
+
+<br>
+
+---
+
+### Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ahnafprojects&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6" />
+</div>
+
+<br>
+
+---
+
+### Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ahnafprojects/Ahnafprojects/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ahnafprojects/Ahnafprojects/output/github-contribution-grid-snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/Ahnafprojects/Ahnafprojects/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:1a1a2e&height=130&section=footer" />
