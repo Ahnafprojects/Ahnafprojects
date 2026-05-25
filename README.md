@@ -83,6 +83,23 @@
 
 ---
 
+### Profile Summary
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahnafprojects&theme=tokyonight" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ahnafprojects&theme=tokyonight" width="24%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ahnafprojects&theme=tokyonight" width="24%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ahnafprojects&theme=tokyonight" width="24%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ahnafprojects&theme=tokyonight&utcOffset=7" width="24%" />
+</div>
+
+<br>
+
+---
+
 ### Trophies
 
 <div align="center">
