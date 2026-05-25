@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:1a1a2e&height=240&section=header&text=Muhammad%20Ahnaf&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Informatics%20Student%20%C2%B7%20Full-Stack%20%26%20Mobile%20Developer&descAlignY=58&descSize=19&descColor=a5b4fc" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:1a1a2e&height=240&section=header&text=Muhammad%20Ahnaf&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Informatics%20Student%20%C2%B7%20Full-Stack%20%2F%20Mobile%20Developer&descAlignY=58&descSize=19&descColor=a5b4fc" />
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3500&pause=900&color=818CF8&center=true&vCenter=true&width=580&lines=D4+Teknik+Informatika+%E2%80%94+PENS+Surabaya;Full-Stack+%26+Mobile+Developer;Turning+ideas+into+real+products;Student+who+actually+ships" />
