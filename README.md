@@ -67,16 +67,6 @@
 
 ---
 
-### 3D Contribution Calendar
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Ahnafprojects/Ahnafprojects/main/profile-3d-contrib/profile-night-rainbow.svg" />
-</div>
-
-<br>
-
----
-
 ### Profile Summary
 
 <div align="center">
