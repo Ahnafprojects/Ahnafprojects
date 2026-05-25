@@ -1,7 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:1a1a2e&height=220&section=header&text=Muhammad%20Ahnaf&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%C2%B7%20Mobile%20%C2%B7%20IoT%20%C2%B7%20AI-Native%20Developer&descAlignY=58&descSize=18&descColor=a5b4fc" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:1a1a2e&height=240&section=header&text=Muhammad%20Ahnaf&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%C2%B7%20Mobile%20%C2%B7%20IoT%20%C2%B7%20AI-Native%20Developer&descAlignY=58&descSize=19&descColor=a5b4fc" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3500&pause=900&color=818CF8&center=true&vCenter=true&width=560&lines=D4+Teknik+Informatika+%E2%80%94+PENS+Surabaya;Building+real+products+from+day+one;Web+%7C+Mobile+%7C+IoT+%7C+AI-augmented;Always+shipping+something+new" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3500&pause=900&color=818CF8&center=true&vCenter=true&width=580&lines=D4+Teknik+Informatika+%E2%80%94+PENS+Surabaya;Building+real+products+from+day+one;Web+%7C+Mobile+%7C+IoT+%7C+AI-augmented;Always+shipping+something+new" />
 </div>
 
 <br>
@@ -10,9 +10,11 @@
   <a href="https://github.com/Ahnafprojects">
     <img src="https://komarev.com/ghpvc/?username=Ahnafprojects&color=6366f1&style=flat-square&label=PROFILE+VIEWS" />
   </a>
+  &nbsp;
   <a href="https://ahnafabdun.me">
     <img src="https://img.shields.io/badge/PORTFOLIO-ahnafabdun.me-6366f1?style=flat-square" />
   </a>
+  &nbsp;
   <a href="mailto:ahnafabdun2006@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-contact-6366f1?style=flat-square&logo=gmail&logoColor=white" />
   </a>
@@ -71,6 +73,16 @@
 
 ---
 
+### 3D Contribution Calendar
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Ahnafprojects/Ahnafprojects/output/profile-3d-contrib/profile-night-rainbow.svg" />
+</div>
+
+<br>
+
+---
+
 ### Trophies
 
 <div align="center">
@@ -89,6 +101,12 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ahnafprojects/Ahnafprojects/output/github-contribution-grid-snake.svg" />
     <img alt="contribution snake" src="https://raw.githubusercontent.com/Ahnafprojects/Ahnafprojects/output/github-contribution-grid-snake-dark.svg" />
   </picture>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 
 <br>
